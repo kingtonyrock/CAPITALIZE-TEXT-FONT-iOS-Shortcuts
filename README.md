@@ -22,13 +22,11 @@
 <br /><br />
 <img src="https://user-images.githubusercontent.com/57829878/222760123-1e8cb86f-f250-4e56-ad1b-ba1d93571885.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/57829878/222760542-046418b4-5770-43d4-8313-d5f055fef724.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/57829878/222760542-046418b4-5770-43d4-8313-d5f055fef724.jpg" width="200"><br />
-<img src="https://user-images.githubusercontent.com/57829878/222760542-046418b4-5770-43d4-8313-d5f055fef724.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/57829878/222760542-046418b4-5770-43d4-8313-d5f055fef724.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/57829878/222760542-046418b4-5770-43d4-8313-d5f055fef724.jpg" width="200"><br />
-<br />
+<img src="https://user-images.githubusercontent.com/57829878/222767247-727a3e42-933b-4621-9e76-414dc9325117.jpg" width="200"><br />
+<img src="https://user-images.githubusercontent.com/57829878/222767258-61ebc518-44a5-4d7f-aa0c-afa0b64fbdf6.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/57829878/222767272-ba3086cc-45b6-4ea1-a569-39712831ed1a.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/57829878/222767369-9b1a3736-471d-455d-b491-7a0c8e0ca8aa.gif" width="200"><br />
+  <div align="center"><br />
 <img width="600" alt="Group 4" src="https://user-images.githubusercontent.com/57829878/222763382-b9253b41-7002-41a6-8f9f-19f1695037a9.png">
-<br />
-
-  [If you like it, you can support me on "buy me a coffee"](https://www.buymeacoffee.com/surizerowan)
-  ㅤㅤㅤㅤㅤ**Telegram:** [kingtonyrock](https://t.me/kingtonyrock)ㅤ**Instagram:** [surizerowan](https://www.instagram.com/surizerowan/)<br />
+<br /><br />
+<a href="https://t.me/kingtonyrock"><img width="125" src="https://user-images.githubusercontent.com/57829878/222769945-0aece575-c97f-43c9-97ad-53a259cdd17d.png">ㅤ<a href="https://www.buymeacoffee.com/surizerowan"><img width="125" src="https://user-images.githubusercontent.com/57829878/222768223-3f50e209-5e0a-4871-97cd-016197edc049.png">ㅤ<a href="https://www.instagram.com/surizerowan/"><img width="125" src="https://user-images.githubusercontent.com/57829878/222769952-8200ce53-91b1-4b97-9ae7-96047c6ef25c.png">
