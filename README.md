@@ -1,6 +1,6 @@
 ![v2](https://user-images.githubusercontent.com/57829878/222650670-01f180a4-d437-4dae-a005-b20f71b65023.png)
 
-**ᴄᴀᴘɪᴛᴀʟɪᴢᴇ ᴛᴇxᴛ ꜰᴏɴᴛ ʙʏ ʀᴇᴇᴢʏ** | _ver. 1.2_
+**ᴄᴀᴘɪᴛᴀʟɪᴢᴇ ᴛᴇxᴛ ꜰᴏɴᴛ ʙʏ ʀᴇᴇᴢʏ** | ᴠᴇʀ. 1.3
 
 
 >• This iOS Shortcut converts your text font to ᴇᴠᴇʀʏᴛʜɪɴɢ ʏᴏᴜ ɴᴇᴇᴅ 
