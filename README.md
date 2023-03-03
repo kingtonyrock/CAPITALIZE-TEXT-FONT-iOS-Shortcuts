@@ -24,7 +24,4 @@
 
 
 
-
-![5](https://user-images.githubusercontent.com/57829878/222635431-c3788b42-db0c-44c5-99f0-5f1054d6a8f6.png)
-![4](https://user-images.githubusercontent.com/57829878/222635439-96bb4efd-a476-461a-b65f-e7d1c002e5db.png)
-
+![Comp 2_1_1](https://user-images.githubusercontent.com/57829878/222695946-2c537085-b970-4f31-a91f-e662d1b0f297.gif)
