@@ -2,9 +2,6 @@
 
 **ᴄᴀᴘɪᴛᴀʟɪᴢᴇ ᴛᴇxᴛ ꜰᴏɴᴛ ʙʏ ʀᴇᴇᴢʏ** | _ver. 1.2_
 
-• Added a choice to voice an action or call a pop-up
-• Minor fixes
-https://www.icloud.com/shortcuts/048eacc9ab284abe9d5481909b092098
 
 >• This iOS Shortcut converts your text font to ᴇᴠᴇʀʏᴛʜɪɴɢ ʏᴏᴜ ɴᴇᴇᴅ 
 
@@ -18,7 +15,7 @@ https://www.icloud.com/shortcuts/048eacc9ab284abe9d5481909b092098
 
 **[If you like it, you can support me on "buy me a coffee"](https://www.buymeacoffee.com/surizerowan)**
 
-[**Get Shortcut**](https://www.icloud.com/shortcuts/08cc3f4498ec4417972b46c883f877fa)
+[**Get Shortcut**](https://www.icloud.com/shortcuts/048eacc9ab284abe9d5481909b092098)
 
 
 **Telegram:** [kingtonyrock](https://t.me/kingtonyrock) 
