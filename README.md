@@ -25,3 +25,4 @@
 
 
 ![Comp 2_1_1](https://user-images.githubusercontent.com/57829878/222695946-2c537085-b970-4f31-a91f-e662d1b0f297.gif)
+![Comp 2_1_1](https://user-images.githubusercontent.com/57829878/222701496-fb90f87f-676e-436b-9198-3ad4fea29fef.gif)
