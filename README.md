@@ -2,7 +2,7 @@
 <a href="https://apps.apple.com/us/app/shortcuts/id91524933"><img width="800" alt="Group 4" src="https://user-images.githubusercontent.com/57829878/222752027-30f9545a-c65a-4e65-96e6-7df8cd2fbef8.png"></a><br />
 <br />
 
-<a href="https://www.icloud.com/shortcuts/4866cf03a5774bdba3bdbaf2a681367f"><img width="600" alt="Group 4" src="https://user-images.githubusercontent.com/57829878/222756557-6df3bc6a-f97a-442e-9d8f-acac5a9bd017.png"></a>
+<a href="https://www.icloud.com/shortcuts/4866cf03a5774bdba3bdbaf2a681367f"><img width="620" alt="Group 4" src="https://user-images.githubusercontent.com/57829878/222756557-6df3bc6a-f97a-442e-9d8f-acac5a9bd017.png"></a>
 <br />
 ##
 <div align="left">
