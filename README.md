@@ -2,7 +2,8 @@
 
 **ᴄᴀᴘɪᴛᴀʟɪᴢᴇ ᴛᴇxᴛ ꜰᴏɴᴛ ʙʏ ʀᴇᴇᴢʏ** | _ver. 1.2_
 
-
+• Added a choice to voice an action or call a pop-up
+• Minor fixes
 https://www.icloud.com/shortcuts/048eacc9ab284abe9d5481909b092098
 
 >• This iOS Shortcut converts your text font to ᴇᴠᴇʀʏᴛʜɪɴɢ ʏᴏᴜ ɴᴇᴇᴅ 
