@@ -31,5 +31,5 @@
 <img src="https://user-images.githubusercontent.com/57829878/222767369-9b1a3736-471d-455d-b491-7a0c8e0ca8aa.gif" width="200">
 
 ##
-<div align="center">
+<div align="center"><br />
 <a href="https://t.me/kingtonyrock"><img width="125" src="https://user-images.githubusercontent.com/57829878/222769945-0aece575-c97f-43c9-97ad-53a259cdd17d.png">ㅤ<a href="https://www.buymeacoffee.com/surizerowan"><img width="125" src="https://user-images.githubusercontent.com/57829878/222768223-3f50e209-5e0a-4871-97cd-016197edc049.png">ㅤ<a href="https://www.instagram.com/surizerowan/"><img width="125" src="https://user-images.githubusercontent.com/57829878/222769952-8200ce53-91b1-4b97-9ae7-96047c6ef25c.png">
