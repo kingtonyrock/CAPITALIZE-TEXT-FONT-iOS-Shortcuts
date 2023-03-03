@@ -8,17 +8,17 @@
 <div align="left">
 <br />
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• This iOS Shortcut converts your text font to everything you need
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• This iOS Shortcut converts your text font to everything you need
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• You can delete the warning to go straight to typing
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• You can delete the warning to go straight to typing
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• At the end you can select, copy or show the text
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• At the end you can select, copy or show the text
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• In the viewing mode, you can also copy the text
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• In the viewing mode, you can also copy the text
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added voice acting, you can disable
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added voice acting, you can disable
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added fast mode only enter and receive?
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added fast mode only enter and receive?
 <br />
 
 ##
