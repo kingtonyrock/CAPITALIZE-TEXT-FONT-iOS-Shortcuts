@@ -17,6 +17,8 @@
 <br />
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added voice acting, you can disable
 <br />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added fast mode only enter and receive
+<br />
 <div align="center"><br />
 <img width="600" alt="Group 4" src="https://user-images.githubusercontent.com/57829878/222763382-b9253b41-7002-41a6-8f9f-19f1695037a9.png">
 <br /><br />
