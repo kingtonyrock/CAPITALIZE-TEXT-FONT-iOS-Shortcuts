@@ -18,7 +18,7 @@
 <br />
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added voice acting, you can disable
 <br />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added fast mode only enter and receive?
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Added fast mode only enter and receive
 <br />
 
 ##
